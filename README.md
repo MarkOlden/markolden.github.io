@@ -8,7 +8,8 @@ Running
 Supported Browsers
 ------------------
 Supports Chrome 70+, Firefox 70+, Safari 11+, Opera 50+, Native Android browser 7x+, the default browser in the current and previous major iOS versions (e.g. 11.2.x and 10.3.x) and Edge 79+.
-------------------
-The level of complexity of this project means that even simple changes 
+
+
+P.S. The level of complexity of this project means that even simple changes 
 can break a _lot_ of other moving parts. The amount of testing required 
 is far more than it first seems.
