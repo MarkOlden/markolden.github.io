@@ -1,6 +1,7 @@
 Scope of the Project
 --------------------
 This is a diagramming or whiteboarding application, depending on which theme is selected. It is not an SVG editing app, the SVG export is designed only for embedding in web pages, not for further editing in other tools.
+
 Running
 -------
 [Project Bohema](https://markolden.github.io/src/main/webapp/index.html) will have the full editor functionality.
